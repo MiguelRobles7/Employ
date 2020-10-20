@@ -1,0 +1,16 @@
+C:\Users\donna\source\repos\Employ\bin\Debug\Employ.exe.config
+C:\Users\donna\source\repos\Employ\bin\Debug\Employ.exe
+C:\Users\donna\source\repos\Employ\bin\Debug\Employ.pdb
+C:\Users\donna\source\repos\Employ\obj\Debug\Employ.Properties.Resources.resources
+C:\Users\donna\source\repos\Employ\obj\Debug\Employ.csproj.GenerateResource.cache
+C:\Users\donna\source\repos\Employ\obj\Debug\Employ.csproj.CoreCompileInputs.cache
+C:\Users\donna\source\repos\Employ\obj\Debug\Employ.exe
+C:\Users\donna\source\repos\Employ\obj\Debug\Employ.pdb
+C:\Users\donna\source\repos\Employ\bin\Debug\Guna.UI2.dll
+C:\Users\donna\source\repos\Employ\obj\Debug\Employ.csproj.CopyComplete
+C:\Users\donna\source\repos\Employ\obj\Debug\Employ.MainForm.resources
+C:\Users\donna\source\repos\Employ\obj\Debug\Employ.AddEmployee.resources
+C:\Users\donna\source\repos\Employ\obj\Debug\Employ.EmployeesData.resources
+C:\Users\donna\source\repos\Employ\obj\Debug\Employ.Entry.resources
+C:\Users\donna\source\repos\Employ\obj\Debug\Employ.EMPDetails.resources
+C:\Users\donna\source\repos\Employ\obj\Debug\Employ.SplashScreen.resources
